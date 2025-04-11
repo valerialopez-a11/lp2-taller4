@@ -1,0 +1,4 @@
+flask
+reactpy
+flask-cors
+flask-sock
